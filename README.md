@@ -1,8 +1,9 @@
-![GitHub Banner](https://github.com/user-attachments/assets/bf4c44ad-85e2-4a37-986a-afb813d14922)
+![GitHub Banner](https://github.com/user-attachments/assets/991d9c5b-24fa-40ab-a79c-5e2679f719d9)
 ***
+
 # A Bit About Me
 <p align="center">
-  I'm a 3rd-year Creative Technology student, double-majoring in Interactive Development and User Experience Design. I thrive on tackling challenging projects that test my skills and drive me to create innovative solutions. Recently, I’ve been focusing on building community-driven applications that connect people through music and events. :sunglasses:.
+  Hi I'm Mwape, a Full-stack dev and UI/UX designer. I thrive on tackling challenging projects that test my skills and drive me to create innovative solutions. Recently, I’ve been focusing on building out systems that solve real-world problems. I like to approach my projects with innovation in mind. :sunglasses:.
 </p>
 
 *** 
@@ -24,34 +25,38 @@
 ***
 # Key Projects 
 
-Below are links to the 4 projects I completed this year.
+Below are links to 3 key projects I've completed this year.
 ## Semester 1
 ### Term 1 & 2
 <p align="center">
 <a href="https://github.com/Mwape-Kurete/CC-School-Frontend">
-</a>
-<!-- <a href="https://github.com/Mwape-Kurete/DV200T2GroupAssignmentEQ">
-  <img src="https://github.com/user-attachments/assets/daa52c80-38f0-4a14-93fb-8cb63c96be01" alt="Your Banner" width="400" />
-</a> -->
+  <img width="700" alt="cc-school" src="https://github.com/user-attachments/assets/481a53e0-9d26-46ac-854a-afc0c376a833" />
+</a> 
 </p>
 
 ## Semester 2
 ### Term 3 & 4 
 <p align="center">
   <a href="https://github.com/Mwape-K/REVERB">
-    <!-- <img src="https://github.com/user-attachments/assets/df7d1689-bd9f-470e-b769-64305ce7d761" alt="Your Banner" width="400" /> -->
+   <img width="700" alt="reverb" src="https://github.com/user-attachments/assets/07e1331c-da89-4990-b93f-5442ab27bdc3" />
   </a>
+  </p>
+  <br /> 
+  <hr />
+  <br />
+  <p align="center">
   <a href="https://github.com/Mwape-Kurete/thnk-frontend">
-    <!-- <img src="https://github.com/user-attachments/assets/350b3f01-b05d-479d-8c24-d43ac2505ec3" alt="Your Banner" width="400" /> -->
+    <img width="700" alt="THNK" src="https://github.com/user-attachments/assets/e026b1e7-4617-4511-8aa1-f638516c6dde" />
   </a>
-</p>
+  </p>
+
 
 ### GitHub Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mwape-kurete&theme=dracula&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwape-k&theme=dracula&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub ReadMe Streal Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwape-kurete&theme=dracula&hide_border=true&card_width=1080)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mwape-k&theme=dracula&hide_border=true&card_width=1080)](https://git.io/streak-stats)
 
 *** 
