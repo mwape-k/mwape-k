@@ -17,9 +17,20 @@ I'm a driven developer who thrives on turning complex challenges into elegant, f
 
 <div align="center">
 
+## 🎧 Coding Soundtrack
+
+<div align="center">
+
 *"Good code and good music have the same thing in common - they both need the right rhythm and structure."*
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/euvq63f367ym44q2wbadtgov1)
+### 🎵 My Coding Vibes
+**Focus Flow** • **Creative Sessions** • **Debugging Beats**
+
+[![Music](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/euvq63f367ym44q2wbadtgov1)
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/its_moi)
+
+*"Currently coding to the rhythm of..."*  
+✨ **90's boom bap** • **alt indie/punk** • **Alt Jazz** • **Neo Soul** • **Neo RnB**
 
 </div>
 
