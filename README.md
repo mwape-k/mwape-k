@@ -130,7 +130,7 @@ A critical-thinking and research tool
 I'm always open to discussing new opportunities, creative ideas, or just having a chat about tech.
 
 *   **Email:** [kurete.mwape@gmail.com](mailto:kurete.mwape@gmail.com)
-*   **LinkedIn:** [Mwape Kurete](https://www.linkedin.com/in/your-profile/)
+*   **LinkedIn:** [Mwape Kurete](https://www.linkedin.com/in/mwape-kurete-/)
 *   **Portfolio:** [My Portfolio](https://mwape-kurete-portfolio.vercel.app/)
 
 ---
