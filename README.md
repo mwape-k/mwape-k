@@ -15,15 +15,13 @@ I'm a driven developer who thrives on turning complex challenges into elegant, f
 ***
 ## 🎧 Current Playlist
 
-<div align="center">
-
-## 🎧 Coding Soundtrack
+### 🎧 Coding Soundtrack
 
 <div align="center">
 
 *"Good code and good music have the same thing in common - they both need the right rhythm and structure."*
 
-### 🎵 My Coding Vibes
+#### 🎵 My Coding Vibes
 **Focus Flow** • **Creative Sessions** • **Debugging Beats**
 
 [![Music](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/euvq63f367ym44q2wbadtgov1)
@@ -107,7 +105,7 @@ A unique audio journaling application built to make journaling a more interestin
 ---
 
 ### **THNK** | Semester 2 (Term 4)
-[![THNK Preview](https://github.com/user-attachments/assets/e026b1e7-4617-4511-8aa1-f638516c6dde)](https://github.com/Mwape-Kurete/thnk-frontend)
+[![THNK Preview](https://github.com/user-attachments/assets/e026b1e7-4617-4511-8aa1-f638516c6dde)](https://github.com/Mwape-K/thnk-frontend)
 A critical-thinking and research tool
 *   **How:** Built with **React** and **Tailwind** for a fast, aesthetic and seamless inspired frontend, powered by a robust **MongoDB** backend.
 *   **Why:** To address the need for deeper learning when researching topics or looking through sources.
