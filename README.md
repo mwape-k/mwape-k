@@ -19,7 +19,7 @@ I'm a driven developer who thrives on turning complex challenges into elegant, f
 
 *"Good code and good music have the same thing in common - they both need the right rhythm and structure."*
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=euvq63f367ym44q2wbadtgov1&cover_image=true&theme=dracula&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff6b6b&bar_color_cover=true)](https://open.spotify.com/user/euvq63f367ym44q2wbadtgov1)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/euvq63f367ym44q2wbadtgov1)
 
 </div>
 
